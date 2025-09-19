@@ -67,6 +67,10 @@ Output folder for final documents:
 2. `/init`: Create the folder structure
 3. More commands to be developed during usage
 
+## Requirements
+
+This project is designed to work specifically with **Claude Code** (claude.ai/code). Other AI assistants or IDEs are not supported.
+
 ## Getting Started
 
 1. Run `/init` to create the folder structure
