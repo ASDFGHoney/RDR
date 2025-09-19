@@ -43,6 +43,8 @@ Company research and analysis workspace:
 ### `reflections/`
 **Most Important Folder** - Your authentic reflection space:
 - Write diary-style reflections on all your experiences
+- Focus on problems you solved and mistakes you made
+- General experiences are also valuable to include
 - This content is the foundation of truth
 - **Agents must never auto-generate content here**
 - Used as the backbone for building resume content
