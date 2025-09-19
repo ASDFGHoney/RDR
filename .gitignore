@@ -1,0 +1,21 @@
+# Personal data folders
+MyBase/
+Corporate_Analysis/
+reflections/
+
+# Generated content (optional - you might want to share examples)
+Generated/
+
+# Claude Code personal config (keep commands public)
+.claude/*
+!.claude/commands/
+
+# System files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
