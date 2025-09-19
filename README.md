@@ -40,7 +40,7 @@ Company research and analysis workspace:
 - `Corporate_Analysis/[company-role]/base/`: Raw company data
 - `[company-role]-summary.md`: Company culture and information analysis
 
-### `reflections/`
+### `Reflections/`
 **Most Important Folder** - Your authentic reflection space:
 - Write diary-style reflections on all your experiences
 - Focus on problems you solved and mistakes you made

@@ -48,7 +48,7 @@ Corporate_Analysis/회사명-직무/base를 기반으로 회사명-직무-summar
 회사명-직무-summary.md 에는 회사 문화가 드러나도록 회사에 대한 내용만 적어.
 
 
-## reflections/
+## Reflections/
 내가 한 모든 것들에 대한 회고를 작성하는 폴더야. 
 일기를 쓰듯이 내가 한 모든 것들을 작성해
 여기에 쓰는 내용이 진짜야
