@@ -1,32 +1,32 @@
-# RDR Init Command
+# RDR 초기화 명령어
 
-Create the complete RDR (Reflection-Driven Resume) folder structure for organizing resume and portfolio development through structured reflection.
+구조화된 성찰을 통한 이력서 및 포트폴리오 개발을 위한 완전한 RDR(Reflection-Driven Resume) 폴더 구조를 생성합니다.
 
-## What to create:
+## 생성할 내용:
 
-1. **MyBase/** - Raw data repository
-   - Create `MyBase/summary/` subdirectory
-   - Add `.gitkeep` files to maintain empty directories
+1. **MyBase/** - 원시 데이터 저장소
+   - `MyBase/summary/` 하위 디렉토리 생성
+   - 빈 디렉토리 유지를 위한 `.gitkeep` 파일 추가
 
-2. **Corporate_Analysis/** - Company research workspace
-   - Add `.gitkeep` file to maintain empty directory
+2. **Corporate_Analysis/** - 회사 조사 작업 공간
+   - 빈 디렉토리 유지를 위한 `.gitkeep` 파일 추가
 
-3. **Reflections/** - User's authentic diary-style reflections
-   - Add `.gitkeep` file to maintain empty directory
-   - **CRITICAL**: Never auto-generate content here - this is for authentic user experiences only
+3. **Reflections/** - 사용자의 진정한 일기 형식 성찰
+   - 빈 디렉토리 유지를 위한 `.gitkeep` 파일 추가
+   - **중요**: 여기에 자동으로 콘텐츠를 생성하지 마세요 - 이곳은 진정한 사용자 경험만을 위한 공간입니다
 
-4. **Generated/** - Output folder
-   - Create `Generated/resume/` subdirectory
-   - Create `Generated/portfolio/` subdirectory
-   - Add `.gitkeep` files to maintain empty directories
+4. **Generated/** - 출력 폴더
+   - `Generated/resume/` 하위 디렉토리 생성
+   - `Generated/portfolio/` 하위 디렉토리 생성
+   - 빈 디렉토리 유지를 위한 `.gitkeep` 파일 추가
 
-5. **Git Branch Setup** - Create personal branch for private work
-   - Create and switch to `personal` branch for personal data and reflections
-   - Keep `main` branch for project structure and documentation only
+5. **Git 브랜치 설정** - 개인 작업을 위한 개인 브랜치 생성
+   - 개인 데이터 및 성찰을 위한 `personal` 브랜치 생성 및 전환
+   - `main` 브랜치는 프로젝트 구조 및 문서화만을 위해 유지
 
-## Instructions:
-- Create all folders and `.gitkeep` files in a single operation
-- Create and switch to `personal` branch for ongoing work
-- Do not create any markdown files or sample content
-- Maintain the exact folder structure as specified
-- Confirm successful creation by listing the created structure
+## 지침:
+- 모든 폴더와 `.gitkeep` 파일을 한 번의 작업으로 생성
+- 지속적인 작업을 위해 `personal` 브랜치 생성 및 전환
+- 마크다운 파일이나 샘플 콘텐츠는 생성하지 마세요
+- 지정된 대로 정확한 폴더 구조 유지
+- 생성된 구조를 나열하여 성공적인 생성 확인
