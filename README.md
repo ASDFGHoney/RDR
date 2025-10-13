@@ -1,5 +1,7 @@
 # RDR - Reflection-Driven Resume
 
+*Read this in other languages: [English](README.md), [한국어](README.ko.md)*
+
 > A reflection-driven approach to resume writing, inspired by spec-kit
 
 ## Overview
