@@ -1,0 +1,13 @@
+{
+"name": "honeycomp-marketplace",
+"owner": {
+"name": "honeycomp"
+},
+"plugins": [
+{
+  "name": "rdr-plugin",
+  "source": "./rdr-plugin",
+  "description": "RDR plugin"
+}
+]
+}
